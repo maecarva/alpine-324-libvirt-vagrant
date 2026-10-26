@@ -379,7 +379,7 @@ Total bytes written: 208926720 (200MiB, 569MiB/s)
 ```bash
 vagrant box add \
   alpine-3.24.2-libvirt.box \
-  --name mael/alpine324
+  --name maecarva/alpine324
 ```
 
 `vagrant box list`
